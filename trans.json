@@ -1,0 +1,13 @@
+{
+  "custId" : "4550801576257",
+  "firstName" : "Sarah",
+  "lastName" : "Parsons",
+  "txnId" : "bdb37f406ed660fe0452d5600b6b4df0",
+  "txnTime" : "2019-04-17 22:28:12",
+  "unixTime" : null,
+  "merchant" : "grocery_pos",
+  "longi" : "45",
+  "category" : "1325597827",
+  "txnAmnt" : "545",
+  "lat" : "221"
+}
